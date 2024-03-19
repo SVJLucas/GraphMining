@@ -12,7 +12,5 @@ Central to network science is the exploration of centrality measures, random wal
 - Machine learning with Graph Neural Networks (GNNs)
 
 
-## Assessment
-**Mini-Project (Deliver + Presentation):** The purpose of the project is to compare traditional and ML approaches for community detection and influence maximisation problems on real datasets.
-
-**Attention:** Présence obligatoire en cours.
+## Mini-Project 
+The purpose of the project is to compare traditional and ML approaches for community detection and influence maximisation problems on real datasets.
